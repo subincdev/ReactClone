@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/ReactClone/static/js/main.b55c75b4.js",
+    "static/media/React.png": "/ReactClone/static/media/React.428839d4924b447d4d50.png",
+    "index.html": "/ReactClone/index.html",
+    "main.b55c75b4.js.map": "/ReactClone/static/js/main.b55c75b4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b55c75b4.js"
+  ]
+}
